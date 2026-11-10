@@ -1,0 +1,13 @@
+{
+  "standalone_question": "Какая арендная плата?",
+  "kinds": [
+    "lookup"
+  ],
+  "entities": {},
+  "event_date": null,
+  "premises": [],
+  "ambiguities": [],
+  "search_queries": [
+    "Какая арендная плата?"
+  ]
+}

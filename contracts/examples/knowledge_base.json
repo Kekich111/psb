@@ -1,0 +1,74 @@
+{
+  "kb_hash": "fake-kb-hash",
+  "cards": {
+    "contract_a": {
+      "doc_id": "contract_a",
+      "file": "документы компании__Тестовый договор аренды.txt",
+      "doc_class": "company",
+      "kind": "contract",
+      "title": "Договор аренды № Т-01/2024",
+      "number": "Т-01/2024",
+      "doc_date": "2024-08-01",
+      "family_id": null,
+      "effective_from": null,
+      "effective_to": null,
+      "parties": [
+        {
+          "name": "ООО «Тест-Арендодатель»",
+          "inn": null,
+          "role": "Арендодатель"
+        },
+        {
+          "name": "ООО «Меридиан»",
+          "inn": null,
+          "role": "Арендатор"
+        }
+      ],
+      "amends": [],
+      "law": null,
+      "approx_tokens": 40
+    },
+    "law_tk_70": {
+      "doc_id": "law_tk_70",
+      "file": "законы__ТК_ст70_действующая.txt",
+      "doc_class": "law",
+      "kind": "law",
+      "title": "ТК РФ, ст. 70",
+      "number": null,
+      "doc_date": null,
+      "family_id": null,
+      "effective_from": null,
+      "effective_to": null,
+      "parties": [],
+      "amends": [],
+      "law": null,
+      "approx_tokens": 40
+    }
+  },
+  "chunks": {
+    "contract_a#п. 3.1": {
+      "chunk_id": "contract_a#п. 3.1",
+      "doc_id": "contract_a",
+      "locator": "п. 3.1",
+      "breadcrumb": "Договор Т-01/2024 / раздел 3 / п. 3.1",
+      "text": "3.1. Арендная плата составляет 100 000 рублей в месяц.",
+      "start": 0,
+      "end": 55,
+      "is_editorial": false
+    },
+    "law_tk_70#ст. 70": {
+      "chunk_id": "law_tk_70#ст. 70",
+      "doc_id": "law_tk_70",
+      "locator": "ст. 70",
+      "breadcrumb": "ТК РФ / ст. 70",
+      "text": "Статья 70. Испытание при приеме на работу. Тестовый текст нормы.",
+      "start": 0,
+      "end": 64,
+      "is_editorial": false
+    }
+  },
+  "article_inventory": [
+    "ТК РФ ст. 70"
+  ],
+  "our_company": "ООО «Меридиан»"
+}

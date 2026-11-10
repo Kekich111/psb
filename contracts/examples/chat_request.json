@@ -1,0 +1,10 @@
+{
+  "history": [
+    {
+      "role": "user",
+      "content": "Какая арендная плата?"
+    }
+  ],
+  "mode": "batch",
+  "as_of": null
+}
